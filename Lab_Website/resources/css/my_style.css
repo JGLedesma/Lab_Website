@@ -1,0 +1,35 @@
+/* Add any css you want to use for you website here */
+
+.jumbotron {
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+}
+
+.stats {
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+}
+
+th, td {
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.container {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.row {
+	text-align: center;
+	width: 100%;
+}
+
+.col-8 {
+	font-size: 1.2em;
+	text-align: center;
+	width: 100%;
+}
